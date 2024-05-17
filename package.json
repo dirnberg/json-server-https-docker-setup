@@ -1,0 +1,9 @@
+{
+  "name": "json-server-https",
+  "version": "1.0.0",
+  "description": "A JSON Server setup with HTTPS",
+  "main": "https-server.js",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
