@@ -4,7 +4,7 @@
 
 # JSON Server HTTPS Docker Setup
 
-This repository enables you to set up a JSON Server with HTTPS support using Docker. It's perfect for local development environments where HTTPS is required for frontend applications to interact with an API securely.
+This repository enables you to set up a JSON Server with HTTPS support using Docker. It's perfect for local development environments where HTTPS is required for frontend applications to interact with an API securely. Tested with Windows 11.
 
 ## Steps to Get Started
 
